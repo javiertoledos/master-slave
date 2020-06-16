@@ -40,6 +40,6 @@ production/original branch instead of master, even after you updated whitelist/b
 
 Hope all of us find someday a more meaningful way to change this world for better.
 
-[1](https://foodispower.org/our-food-choices/coffee/)
-[2](https://www.amnesty.org/en/latest/news/2016/11/palm-oil-global-brands-profiting-from-child-and-forced-labour/)
-[3](https://www.girlsnotbrides.org/ready-to-marry-dynamics-of-child-marriage-in-pakistan-evidence-from-three-development-programmes/)
+[1]: https://foodispower.org/our-food-choices/coffee/
+[2]: https://www.amnesty.org/en/latest/news/2016/11/palm-oil-global-brands-profiting-from-child-and-forced-labour/
+[3]: https://www.girlsnotbrides.org/ready-to-marry-dynamics-of-child-marriage-in-pakistan-evidence-from-three-development-programmes/
